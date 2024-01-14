@@ -13,7 +13,7 @@ const About = () => {
           className="text-6xl z-10 font-primary text-center text-white sm:text-5xl md:text-6xl"
           style={{ whiteSpace: "pre-line" }}
         >
-          Decouvrez{"\n"}Hotel Mariador Park
+          Decouvrez{"\n"}Hotel Mariador Park!
         </h1>
       </div>
       <div className="container mx-auto p-6">
@@ -31,7 +31,7 @@ const About = () => {
           talentueux chefs, que vous vous lanciez dans des aventures
           passionnantes ou que vous vous relaxiez simplement dans le calme
           absolu, chaque instant ici est conçu pour laisser une impression
-          durable.
+          durable. Merci!
           {/* eslint-enable react/no-unescaped-entities */}
         </p>
         <p className="text-lg mb-8">
